@@ -1,10 +1,7 @@
-### Hi there 👋
+✨ Hello World! =) ✨ 
 
 
-✨ HELLO =) ✨ 
-
-
-- 🔭 System Analyst & Web Developper at Gente Seguradora
-- 🌱 Programing Languages: Java | Javascript | PHP |
-- 💬 Data Bases: PostrgreSQL | MySQL | MongoDB |
-- 😄 Pronouns: he | his
+🔭 System Analyst & Web Developer at Gente Seguradora
+🌱 :: Java | Javascript | Typescript | PHP | 
+💬 Database: PostrgreSQL | MySQL | MongoDB |
+😄 Pronouns: he | his
