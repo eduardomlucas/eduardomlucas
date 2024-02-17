@@ -1,7 +1,13 @@
-✨ Hello World! =) ✨ 
+👋 Hello World! Welcome to my GitHub profile! 🌟
 
+👨‍💻 System Analyst & Fullstack Web Developer at Gente Seguradora
 
-- 🔭 System Analyst & Web Developer at Gente Seguradora
-- 🌱 :: Java | Javascript | Typescript | PHP | 
-- 💬 Database: PostrgreSQL | MySQL | MongoDB |
-- 😄 Pronouns: he | his
+📚 Stacks:
+Java: SpringBoot |Servlets
+JS/TS: |React |React Native |Vue
+
+💾 Databases:
+PostgreSQL |MySQL |MongoDB |JDBC
+
+🛠️ Other Skills:
+Git |Design Patterns |iReport
