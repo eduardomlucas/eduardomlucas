@@ -5,15 +5,10 @@
 👨‍💻 System Analyst & Fullstack Web Developer at Gente Seguradora
 
 
-📚 Stacks:
+📚 WebStack: Java -> SpringBoot, Servlets | JS/TS -> React, Vue
 
-Java: SpringBoot |Servlets
-JS/TS: |React |React Native |Vue
+📚 MobileStack:  React Native, Expo
 
-💾 Databases:
+💾 Databases: JDBC | PostgreSQL | MySQL | MongoDB
 
-PostgreSQL |MySQL |MongoDB |JDBC
-
-🛠️ Other Skills:
-
-Git |Design Patterns |iReport
+🛠️ Other Skills: Git | Design Patterns | iReport | Firebase
